@@ -1,0 +1,27 @@
+{
+  "name": "node-emojis",
+  "version": "1.0.0",
+  "description": "A node emoji package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vestus-ola/node-emojis.git"
+  },
+  "keywords": [
+    "emoji",
+    "node-emoji",
+    "node"
+  ],
+  "author": {
+    "name": "Oyeleye Festus Olatunbosun",
+    "email": "oyeleyeolatunbosunfestus@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vestus-ola/node-emojis/issues"
+  },
+  "homepage": "https://github.com/vestus-ola/node-emojis#readme"
+}
