@@ -1,5 +1,5 @@
 {
-  "name": "node-emojis",
+  "name": "simple-node-emojis",
   "version": "1.0.0",
   "description": "An emoji package for nodejs",
   "main": "index.js",
