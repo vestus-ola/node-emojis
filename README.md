@@ -1,18 +1,18 @@
 # Node Emoji
-[![npm (scoped)](https://img.shields.io/npm/v/node-emojis.svg)](https://www.npmjs.com/package/node-emojis)
-[![npm (scoped)](https://img.shields.io/badge/npm-node--emojis-brightgreen.svg)](https://www.npmjs.com/package/node-emojis)
+[![npm (scoped)](https://img.shields.io/npm/v/simple-node-emojis.svg)](https://www.npmjs.com/package/simple-node-emojis)
+[![npm (scoped)](https://img.shields.io/badge/npm-simple--node--emojis-brightgreen.svg)](https://www.npmjs.com/package/simple-node-emojis)
 ```
 A node package for emoji
 ```
 
 ## Installation
 ```
-npm install node-emojis
+npm install simple-node-emojis
 ```
 
 ## Usage
 ```js
-const nodeEmojis = require("node-emojis");
+const nodeEmojis = require("simple-node-emojis");
 ```
 
 ## nodeEmojis.all();
