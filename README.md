@@ -30,11 +30,11 @@ Return object if valid or undefined if not valid.
 ## nodeEmojis.findEmojiByGroupName(groupName);
 Get arrays of emoji belonging to the emoji group. return [{...}]
 
-## nodeEmojis.encodeEmoji(str);
-Encode all valid emoji in variable (str) to key. e.g ":grinning_face:" => "😀"
-
 ## nodeEmojis.decodeEmoji(str);
-Decode all valid emoji in variable (str) to char. e.g "😀" => ":grinning_face:"
+Decode all valid emoji in parma (str) to key. e.g ":grinning_face:" => "😀"
+
+## nodeEmojis.encodeEmoji(str);
+Encode all valid emoji in parma (str) to char. e.g "😀" => ":grinning_face:"
 
 ## nodeEmojis.getRandomEmoji();
 Get random emoji. return {...}
